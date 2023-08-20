@@ -19,7 +19,7 @@
 
 - Download or clone the repository
 ```
-git clone https://github.com/K-umaraswamy/weather-app.git
+git clone https://github.com/K-umaraswamy/Weather-Update.git
 ```
 - Go to the directory
 - Run the index.html file
